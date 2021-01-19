@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66cf7856-5923-4b67-97d3-dc6af3a8af46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../lessson10\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ljb4NVBNW9YSKn93b7aPH3F25k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson10/index.html" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66cf7856-5923-4b67-97d3-dc6af3a8af46" name="Default Changelist" comment="" />
+      <created>1608113256057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608113256057</updated>
+      <workItem from="1608113258204" duration="5808000" />
+      <workItem from="1608119372734" duration="819000" />
+      <workItem from="1608122975722" duration="78000" />
+      <workItem from="1608203046003" duration="5780000" />
+      <workItem from="1608280173629" duration="2010000" />
+      <workItem from="1608286073207" duration="16450000" />
+      <workItem from="1608349061620" duration="8250000" />
+      <workItem from="1608389569497" duration="2477000" />
+      <workItem from="1608511404759" duration="11636000" />
+      <workItem from="1608552045020" duration="30992000" />
+      <workItem from="1608636147262" duration="2550000" />
+      <workItem from="1608979010563" duration="4669000" />
+      <workItem from="1609222314829" duration="3905000" />
+      <workItem from="1609227974714" duration="4352000" />
+      <workItem from="1609232866117" duration="20334000" />
+      <workItem from="1609826476701" duration="9365000" />
+      <workItem from="1610519025590" duration="8250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608114256195">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608114256195" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1609251911060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1609251911060" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610523754331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610523754331" />
+  </component>
+</project>
