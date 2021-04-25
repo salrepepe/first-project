@@ -1,7 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66cf7856-5923-4b67-97d3-dc6af3a8af46" name="Default Changelist" comment="" />
+    <list default="true" id="66cf7856-5923-4b67-97d3-dc6af3a8af46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lessson10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lessson10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/jQuerry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/jQuerry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-BlackItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-BoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraLight.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraLightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ExtraLightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-LightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-MediumItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-SemiBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-SemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-SemiBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-SemiBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ThinItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/Montserrat-ThinItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/fonts/Montserrat/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/jQuery/jQuery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/jQuery/jQuery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/aboutUs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/aboutUs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/all-services.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/all-services.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/allProjects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/allProjects.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/services.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/services.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/subscribe.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/subscribe.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/textStyle.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/textStyle.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/video.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/video.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +96,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ljb4NVBNW9YSKn93b7aPH3F25k" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,6 +107,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson10/index.html" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
@@ -57,6 +139,7 @@
       <workItem from="1609232866117" duration="20334000" />
       <workItem from="1609826476701" duration="9365000" />
       <workItem from="1610519025590" duration="8250000" />
+      <workItem from="1617345721598" duration="264000" />
     </task>
     <servers />
   </component>
@@ -64,10 +147,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608114256195">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1617345769261">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608114256195" />
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1617345769261" />
+    <state x="504" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617345762546">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="504" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1617345762546" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1609251911060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

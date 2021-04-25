@@ -1,0 +1,74 @@
+.allServices {
+  padding: 100px 0 85px;
+  position: relative;
+  &::before {
+    content: '';
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: linear-gradient(90deg, #504DC2 20.44%, #5F12D0 80.91%);
+    height: 500px;
+    z-index: -1;
+  }
+
+  &__title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 53px;
+    width: 540px;
+    height: 88px;
+    margin-right: 370px;
+  }
+  &__button{
+    @include buttons;
+  }
+  &__line{
+    width: 1110px;
+    border-top: 1px solid gray;
+    margin-top: 85px;
+  }
+}
+.wrapper-3{
+  &__textBlock{
+    margin-left: 30px;
+    &:first-child{
+      margin-left: 0;
+    }
+  }
+  &__img{
+    margin-top: 70px;
+  }
+  &__title{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    margin-top: 30px;
+    color: black;
+    .number{
+      color: #4985FF;
+    }
+  }
+  &__subtitle{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    color: #999999;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  &__descr{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: #4985FF;
+  }
+}
+.buttonBlock{
+  margin-top: 33px;
+}

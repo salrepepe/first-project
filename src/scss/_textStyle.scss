@@ -1,0 +1,6 @@
+@mixin textStyle($fw, $fz, $ln){
+  font-style: normal;
+  font-weight: $fw;
+  font-size: $fz;
+  line-height: $ln;
+}
